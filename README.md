@@ -1,1 +1,1 @@
-# bits-pilani - reporsitory for bits related projects
+# bits-pilani - repository for bits related projects
